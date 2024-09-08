@@ -1,3 +1,11 @@
+# Programmers: [Ethan, Zain]
+# Course: CS*151*06
+# Due Date 9/12/24
+# Lab Assignment : 0
+# Problem Statement: Output information about the programmers
+# Data In: None, there is no user input in this program
+# Data Out: The names of the programmers and five statements about each of them
+# Credits [Based on GitHub Directions] 
 print ("CS151 Lab 0")
 print ("Zain")
 print ("Zain likes to collect sneakers.")
